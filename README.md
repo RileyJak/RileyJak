@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Riley 👋
 
-<!--
-**RileyJak/RileyJak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A UX Designer and UX Engineer 👩🏻‍💻
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: Next.js and C++
+- 🥰 My passion project: A online planner for neurodivergent brains
+- ⚡ Fun fact: I am a true crime nerd and Pinterest junkie 
+- 📬 Reach Me on my [website](https://www.rileyjakusik.com) or on [LinkedIn](https://www.linkedin.com/in/rileyjakusik/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Languages
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Firebase" height="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
+<img align="left" alt="Git" height="20px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />
+
