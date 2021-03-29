@@ -3,9 +3,9 @@
 ## A UX Designer and UX Engineer 👩🏻‍💻
 
 - 🌱 I’m currently learning: Next.js and Elm
-- 🥰 My passion project: A online planner for neurodivergent brains
+- 🥰 What I dream of building: digital products for early education 
 - ⚡ Fun fact: I am a true crime nerd and Pinterest junkie 
-- 📬 Reach Me on my [website](https://www.rileyjakusik.com) or on [LinkedIn](https://www.linkedin.com/in/rileyjakusik/)
+- 📬 Reach Me on my [website](https://www.rileyjakusik.com) or on [LinkedIn](https://www.linkedin.com/in/rileyjakusik/) or [Email](rileyjakusik@outlook.com) me
 
 ### Tools and Languages
 
