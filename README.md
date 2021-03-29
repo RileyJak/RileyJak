@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning: Next.js and Elm
 - 🥰 What I dream of building: digital products for early education 
 - ⚡ Fun fact: I am a true crime nerd and Pinterest junkie 
-- 📬 Reach Me on my [website](https://www.rileyjakusik.com) or on [LinkedIn](https://www.linkedin.com/in/rileyjakusik/) or [Email](rileyjakusik@outlook.com) me
-
+- 📬 Reach Me on my [website](https://www.rileyjakusik.com), [LinkedIn](https://www.linkedin.com/in/rileyjakusik/), or rileyjakusik@outlook.com
 ### Tools and Languages
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
