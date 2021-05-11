@@ -1,10 +1,6 @@
 # Hi, I'm Riley 👋
 
 ## A UX Designer and UX Engineer 👩🏻‍💻
-
-- 🌱 I’m currently learning: Swift
-- 🥰 What I dream of building: digital products for early education 
-- ⚡ Fun fact: I am a true crime nerd and Pinterest junkie 
 - 📬 Reach Me on my [website](https://www.rileyjakusik.com), [LinkedIn](https://www.linkedin.com/in/rileyjakusik/), or rileyjakusik@outlook.com
 ### Tools and Languages
 
