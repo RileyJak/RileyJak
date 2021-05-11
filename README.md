@@ -1,6 +1,7 @@
 # Hi, I'm Riley 👋
 
 ## A UX Designer and UX Engineer 👩🏻‍💻
+I design experinces that have a meaingful impact 
 📬 Reach Me on my [website](https://www.rileyjakusik.com), [LinkedIn](https://www.linkedin.com/in/rileyjakusik/), or rileyjakusik@outlook.com
 ### Tools and Languages
 
